@@ -1,0 +1,9 @@
+[Unit]
+Description=The command to make the Keychron K2 work
+
+[Service]
+Type=oneshot
+ExecStart=echo 0 | sudo tee /sys/module/hid_apple/parameters/fnmode
+
+[Install]
+WantedBy=multi-user.target
