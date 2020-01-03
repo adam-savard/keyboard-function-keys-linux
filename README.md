@@ -38,4 +38,4 @@ That's it! A reboot, and you'll see that the function keys have been re-enabled.
 
 ## Closing Remarks
 
-If you want to simply drag/drop the file that you create manually in the steps provided, I have it under the scripts folder in this repo. Download it and drop it in `/etc/systemd/system/`, doing Step 3 at the end.
+If you want to simply drag/drop the file that you create manually in the steps provided, I have it under the scripts folder in this repo, or you can download it [here](https://github.com/adam-savard/keychron-k2-function-keys-linux/releases/download/1.0/keychron.service). Download it and drop it in `/etc/systemd/system/`, doing Step 3 at the end.
