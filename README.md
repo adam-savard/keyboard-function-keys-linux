@@ -24,7 +24,7 @@ ExecStart=echo 0 | sudo tee /sys/module/hid_apple/parameters/fnmode
 WantedBy=multi-user.target
 ```
 
-Press `ctrl+o` and then `ctrl-x` to exit.
+Press `ctrl+o` and then `ctrl+x` to exit.
 
 ## Step 3
 
