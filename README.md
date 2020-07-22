@@ -13,12 +13,13 @@ Open a terminal window and enter the following command:
 
 Paste the following into the window:
 
-```[Unit]
+```
+[Unit]
 Description=The command to make the Keychron K2 work
 
 [Service]
 Type=oneshot
-ExecStart=echo 0 | sudo tee /sys/module/hid_apple/parameters/fnmode
+ExecStart=/bin/bash -c "echo 0 > /sys/module/hid_apple/parameters/fnmode"
 
 [Install]
 WantedBy=multi-user.target
