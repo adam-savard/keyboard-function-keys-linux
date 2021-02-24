@@ -1,6 +1,4 @@
 #!/bin/bash
-
-#!/bin/bash
 export disableServiceException=100
 export deleteServiceException=101
 
@@ -40,7 +38,7 @@ echo "#Success"
 
 
 echo "#Delete keychron service to /etc/systemd/service"
-sudo rm /etc/systemd/system/keychron.service
+sudo rm /etc/systemd/system/keychron.service || throw $deleteServiceException
 echo "#Success"
 
 echo "---Remove process finish---"
