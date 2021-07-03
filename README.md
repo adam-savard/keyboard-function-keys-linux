@@ -29,13 +29,21 @@ Press `ctrl+o` and then `ctrl+x` to exit.
 
 ## Step 3
 
-In the terminal, type the following:
+In the terminal, first refresh your list of systemd-services by typing:
 
-`systemctl enable keychron`
+`systemctl daemon-reload`
+
+Then run the keychron service by typing:
+
+`systemctl start keychron`
+
+That's it! The function keys should now work.
 
 ## Step 4
 
-That's it! A reboot, and you'll see that the function keys have been re-enabled.
+For it to persist after a reboot you will need to enable the service. Type the following:
+
+`systemctl enable keychron`
 
 ## Closing Remarks
 
