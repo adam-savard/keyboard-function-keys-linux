@@ -36,6 +36,8 @@ In the terminal, type the following:
 ## Step 4
 
 That's it! A reboot, and you'll see that the function keys have been re-enabled.
+Alternatively, run this command to see the changes right away:
+`systemctl start keychron`
 
 ## Closing Remarks
 
