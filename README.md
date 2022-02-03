@@ -1,4 +1,8 @@
-# I've purchased an Akko keyboard and will be using that in my Linux environment from now on. I will continue to maintain the repo but should something happen, I'm unlikely to notice. Make sure to submit PRs with descriptions of the issue!
+# User Tested Keyboards
+- Keychron K2
+- Keychron K1 SE
+- Keychron K6
+
 ---
 
 # Enable Function Keys On The Keychron K2 Mechanical Keyboard Under Linux
