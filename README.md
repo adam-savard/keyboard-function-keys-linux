@@ -2,10 +2,12 @@
 - Keychron K2
 - Keychron K1 SE
 - Keychron K6
+- Keychron C2
 
 ---
 
-# Enable Function Keys On The Keychron K2 Mechanical Keyboard Under Linux
+# Enable Function Keys On Keychron Mechanical Keyboards Under Linux, with `systemd`
+## (or, disable pesky media keys)
 
 
 Below, you'll find the steps required to create a systemd command that will run at boot to disable the media keys and restore f1-f12 functionality.
@@ -20,7 +22,7 @@ Open a terminal window and enter the following command:
 
 Paste the following into the window:
 
-```
+```shell
 [Unit]
 Description=The command to make the Keychron K2 work
 
