@@ -3,6 +3,7 @@
 - Keychron K1 SE
 - Keychron K6
 - Keychron C2
+- Keychron K8
 
 ---
 
