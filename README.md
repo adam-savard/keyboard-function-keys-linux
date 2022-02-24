@@ -1,13 +1,14 @@
 # User Tested Keyboards
-- Keychron K2
-- Keychron K1 SE
-- Keychron K6
-- Keychron C2
-- Keychron K8
+- [Keychron K2](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
+- [Keychron K1 SE](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
+- [Keychron K6](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
+- [Keychron C2](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/12)
+- [Keychron K8](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
+- [Ninja87BT](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/13)
 
 ---
 
-# Enable Function Keys On Keychron Mechanical Keyboards Under Linux, with `systemd`
+# Enable Function Keys On Keychron/Various Mechanical Keyboards Under Linux, with `systemd`
 ## (or, disable pesky media keys)
 
 
