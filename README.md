@@ -18,7 +18,11 @@ Below, you'll find the steps required to create a systemd command that will run 
 
 Open a terminal window and enter the following command:
 
-`sudo nano /etc/systemd/system/keychron.service`
+```shell
+# Set the EDITOR variable with EDITOR=nano, uncommenting the line directly below
+# EDITOR=nano
+sudoedit /etc/systemd/system/keychron.service
+```
 
 ## Step 2
 
@@ -26,7 +30,7 @@ Paste the following into the window:
 
 ```shell
 [Unit]
-Description=The command to make the Keychron K2 work
+Description=Disables media keys for the Keychron K2 and enables function keys
 
 [Service]
 Type=oneshot
