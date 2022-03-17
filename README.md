@@ -5,6 +5,7 @@
 - [Keychron C2](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/12)
 - [Keychron K8](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
 - [Ninja87BT](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/13)
+- [Keychron K4](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/14)
 
 ---
 
