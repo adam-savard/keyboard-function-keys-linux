@@ -1,5 +1,5 @@
 [Unit]
-Description=The command to make the Keychron K2 work
+Description=Disable media keys and substitute in function keys
 
 [Service]
 Type=oneshot
