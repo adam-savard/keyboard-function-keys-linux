@@ -1,4 +1,4 @@
-# Update : July 12th, 2022
+# Update : December 15th, 2022
 
 This repository was originally named after the `Keychron K2` keyboard, but after multiple other keyboards were reported to work, I decided to make the name more generic.
 
