@@ -42,11 +42,13 @@ Paste the following into the window:
 
 ```shell
 [Unit]
-Description=Disables media keys for the Keychron K2 and enables function keys
+Description=Disable media keys and substitute in function keys
 
 [Service]
-Type=oneshot
+Type=simple
+RemainAfterExit=yes
 ExecStart=/bin/bash -c "echo 0 > /sys/module/hid_apple/parameters/fnmode"
+ExecStop=/bin/bash -c "echo 1 > /sys/module/hid_apple/parameters/fnmode"
 
 [Install]
 WantedBy=multi-user.target
