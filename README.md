@@ -17,6 +17,8 @@ If you confirm that your keyboard works with this script as expected, create a t
 - [Keychron K8](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
 - [Ninja87BT](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/13)
 - [Keychron K4](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/14)
+- [Keychron C1](https://github.com/adam-savard/keyboard-function-keys-linux/issues/19)
+
 
 ---
 
