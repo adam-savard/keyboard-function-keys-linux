@@ -18,6 +18,8 @@ If you confirm that your keyboard works with this script as expected, create a t
 - [Ninja87BT](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/13)
 - [Keychron K4](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/14)
 - [Keychron C1](https://github.com/adam-savard/keyboard-function-keys-linux/issues/19)
+- [Flesports MK870](https://github.com/adam-savard/keyboard-function-keys-linux/issues/21)
+- [Keebmonkey 1800/James Donkey RS2](https://github.com/adam-savard/keyboard-function-keys-linux/issues/20)
 
 
 ---
