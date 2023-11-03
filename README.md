@@ -1,19 +1,4 @@
 
-# User Tested Keyboards
-- [Keychron K2](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
-- [Keychron K1 SE](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
-- [Keychron K6](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
-- [Keychron C2](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/12)
-- [Keychron K8](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
-- [Ninja87BT](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/13)
-- [Keychron K4](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/14)
-- [Keychron C1](https://github.com/adam-savard/keyboard-function-keys-linux/issues/19)
-- [Flesports MK870](https://github.com/adam-savard/keyboard-function-keys-linux/issues/21)
-- [Keebmonkey 1800/James Donkey RS2](https://github.com/adam-savard/keyboard-function-keys-linux/issues/20)
-
-
----
-
 # Enable Function Keys On Keychron/Various Mechanical Keyboards Under Linux, with `systemd`
 ## (or, disable pesky media keys)
 
@@ -65,6 +50,18 @@ Alternatively, run this command to see the changes right away:
 # Contributing
 
 If you confirm that your keyboard works with this script as expected, create a ticket and I'll add it to the list of user-tested keyboards. Alternatively, submit a PR with a modification to this readme.
+
+# User Tested Keyboards
+- [Keychron K2](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
+- [Keychron K1 SE](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
+- [Keychron K6](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
+- [Keychron C2](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/12)
+- [Keychron K8](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
+- [Ninja87BT](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/13)
+- [Keychron K4](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/14)
+- [Keychron C1](https://github.com/adam-savard/keyboard-function-keys-linux/issues/19)
+- [Flesports MK870](https://github.com/adam-savard/keyboard-function-keys-linux/issues/21)
+- [Keebmonkey 1800/James Donkey RS2](https://github.com/adam-savard/keyboard-function-keys-linux/issues/20)
 
 ## Closing Remarks
 
