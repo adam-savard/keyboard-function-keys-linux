@@ -1,13 +1,3 @@
-# Update : December 15th, 2022
-
-This repository was originally named after the `Keychron K2` keyboard, but after multiple other keyboards were reported to work, I decided to make the name more generic.
-
-To be clear, this solution will not work without `systemd`; a crontab could work as well if you don't have `systemd`.
-
-# Contributing
-
-If you confirm that your keyboard works with this script as expected, create a ticket and I'll add it to the list of user-tested keyboards. Alternatively, submit a PR with a modification to this readme.
-
 
 # User Tested Keyboards
 - [Keychron K2](https://github.com/adam-savard/keychron-k2-function-keys-linux/issues/9)
@@ -71,6 +61,10 @@ In the terminal, type the following:
 That's it! A reboot, and you'll see that the function keys have been re-enabled.
 Alternatively, run this command to see the changes right away:
 `systemctl start keychron`
+
+# Contributing
+
+If you confirm that your keyboard works with this script as expected, create a ticket and I'll add it to the list of user-tested keyboards. Alternatively, submit a PR with a modification to this readme.
 
 ## Closing Remarks
 
