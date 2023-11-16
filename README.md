@@ -17,7 +17,7 @@ sudoedit /etc/systemd/system/keychron.service
 
 Paste the following into the window:
 
-```shell
+```
 [Unit]
 Description=Disable media keys and substitute in function keys
 
