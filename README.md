@@ -60,6 +60,7 @@ If you confirm that your keyboard works with this script as expected, create a t
 - [Keychron C1](https://github.com/adam-savard/keyboard-function-keys-linux/issues/19)
 - [Flesports MK870](https://github.com/adam-savard/keyboard-function-keys-linux/issues/21)
 - [Keebmonkey 1800/James Donkey RS2](https://github.com/adam-savard/keyboard-function-keys-linux/issues/20)
+- [Keychron K3E1](https://github.com/adam-savard/keyboard-function-keys-linux/issues/23)
 
 ## Closing Remarks
 
